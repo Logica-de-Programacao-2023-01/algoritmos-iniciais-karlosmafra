@@ -1,0 +1,4 @@
+num1 = leia numero1
+num2 = leia numero2
+soma = num1 + num2
+escreva soma
