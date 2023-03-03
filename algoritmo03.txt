@@ -1,0 +1,5 @@
+numero = leia o numero
+soma = 0
+soma = para cada numero: soma + num
+media = soma / qunatidade de numeros
+escrever media 
