@@ -1,0 +1,7 @@
+temperatura = leia o numero
+medida = leia qual a unidade de medida selecionada
+se medida == celsius:
+	final = temperatura * 1,8 + 32
+se medida == fahrenheit
+	final = (temperatura - 32) / 1,8
+escreva final
