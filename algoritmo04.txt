@@ -1,5 +1,6 @@
 leia numero
-fatorial = enquanto numero > 0:
-	fatorial = numero * (numero - 1)
+fatorial = 1
+fatorial = enquanto numero > 1:
+	fatorial = fatorial * numero
 	numero - 1
-
+escreva fatorial

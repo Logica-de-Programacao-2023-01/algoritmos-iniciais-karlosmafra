@@ -1,5 +1,7 @@
-numero = leia o numero
+leia a lista
+leia lista_tamanho
 soma = 0
-soma = para cada numero: soma + numero
-media = soma / qunatidade de numeros
-escrever media 
+soma = para cada numero: 
+    soma = soma + numero
+media = soma / numero_tamanho
+escrever media
