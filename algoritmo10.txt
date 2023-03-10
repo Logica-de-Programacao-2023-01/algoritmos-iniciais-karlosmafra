@@ -1,0 +1,10 @@
+leia lista
+leia pesos
+var soma_elementos = 0
+var soma_pesos = 0
+para cada elemento da lista faça:
+	soma_pesos = soma_pesos + (elemento * peso_correspondente)
+para cada peso dos pesos faça:
+	soma_pesos = soma_pesos + peso
+resultado = soma_elementos / soma_pesos
+escreva resultado

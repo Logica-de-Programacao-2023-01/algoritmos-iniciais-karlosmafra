@@ -1,0 +1,7 @@
+leia taxa
+leia capital
+leia tempo
+var resultado = capital * taxa
+para todos os valores entre 1 e tempo faça:
+	resultado = resultado * taxa
+escreva resultado
