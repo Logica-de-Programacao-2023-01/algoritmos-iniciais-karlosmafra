@@ -1,6 +1,5 @@
-leia numero
-fatorial = 1
-fatorial = enquanto numero > 1:
-	fatorial = fatorial * numero
-	numero - 1
+leia x
+var fatorial = 1
+para todo numero de 1 ate x faça:
+	fatorial = fatorial * numero_atual
 escreva fatorial
